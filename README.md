@@ -1,0 +1,1 @@
+Customized the website using WordPress and various plugins, including Yoast SEO, Classic Editor, RankMath SEO, WP Headers and Footers, Really Simple SSL, LiteSpeed Cache, Social Sharing Plugin, WPS Hide Login, Elements Kit, Elementor, and the Business Consultant theme, to enhance SEO, security, performance, and overall user experience.
